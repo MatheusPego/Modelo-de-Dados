@@ -1,0 +1,5 @@
+pet-social-network/
+├── README.md                   ← explicação breve do projeto
+├── modelo-logico.png           ← diagrama ER (modelo visual)
+├── modelo-relacional.md        ← descrição textual das entidades e relações
+└── script-criacao.sql          ← script SQL com as tabelas
